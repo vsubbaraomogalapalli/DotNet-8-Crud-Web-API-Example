@@ -1,3 +1,3 @@
 Test Push Protection
 
-rsa_private_key ='9879797ykgkjh'
+ghp_1234567890abcdef1234567890abcdef1234
