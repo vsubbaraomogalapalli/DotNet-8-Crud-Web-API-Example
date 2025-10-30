@@ -1,3 +1,6 @@
 Test Push Protection
 
 ghp_1234567890abcdef1234567890abcdef1234
+
+
+Slack Token: `xoxb-123456789012-123456789012-ABCDEFGHIJKLMNO`
