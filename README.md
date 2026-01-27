@@ -2,6 +2,7 @@
 # DotNet Crud Web Api Example
 
  A RESTful Web API using ASP.NET Core in .NET 8.0 alongside Entity Framework Core. 
+
  
  This project demonstrates a simple CRUD (Create, Read, Update, Delete) operation on movies, utilizing a SQLite database to persist data.
 
